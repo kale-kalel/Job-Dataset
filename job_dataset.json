@@ -1,0 +1,176 @@
+[
+  {
+    "job": "Janitor",
+    "description": "Must have experience in cleaning offices or public spaces and be able to work early morning shifts.",
+    "skillset": ["Cleaning", "Time management", "Attention to detail"],
+    "salary-range": "PHP 17,000 - PHP 20,000 per month"
+  },
+  {
+    "job": "Warehouse Loader",
+    "description": "Must be physically fit and able to lift heavy packages in a warehouse setting.",
+    "skillset": ["Physical strength", "Teamwork", "Basic safety knowledge"],
+    "salary-range": "PHP 23,000 - PHP 27,000 per month"
+  },
+  {
+    "job": "Construction Helper",
+    "description": "Must be physically fit and able to lift at least 25 kg daily.",
+    "skillset": ["Physical strength", "Teamwork", "Basic tool handling"],
+    "salary-range": "PHP 24,000 - PHP 28,000 per month"
+  },
+  {
+    "job": "Cashier",
+    "description": "Must be good at handling money and able to work on weekends and holidays.",
+    "skillset": ["Basic math", "Customer service", "Accuracy"],
+    "salary-range": "PHP 20,000 - PHP 24,000 per month"
+  },
+  {
+    "job": "Farm Worker",
+    "description": "Must be willing to work outdoors under hot weather and have experience with planting or harvesting.",
+    "skillset": ["Physical stamina", "Basic farming knowledge", "Reliability"],
+    "salary-range": "PHP 20,000 - PHP 25,000 per month"
+  },
+  {
+    "job": "Waiter/Waitress",
+    "description": "Must have good communication skills and be willing to work night shifts.",
+    "skillset": ["Customer service", "Communication skills", "Multi-tasking"],
+    "salary-range": "PHP 19,000 - PHP 23,000 per month"
+  },
+  {
+    "job": "Security Guard",
+    "description": "Must have a valid security license and be willing to work rotating shifts.",
+    "skillset": ["Alertness", "Basic first aid", "Observation skills"],
+    "salary-range": "PHP 24,000 - PHP 28,000 per month"
+  },
+  {
+    "job": "Housekeeper",
+    "description": "Must have at least 1 year of experience in housekeeping or hotel cleaning.",
+    "skillset": ["Cleaning", "Organization skills", "Time management"],
+    "salary-range": "PHP 17,000 - PHP 20,000 per month"
+  },
+  {
+    "job": "Factory Worker",
+    "description": "Must be able to stand for long hours and follow strict safety guidelines.",
+    "skillset": ["Attention to detail", "Teamwork", "Basic safety knowledge"],
+    "salary-range": "PHP 23,000 - PHP 27,000 per month"
+  },
+  {
+    "job": "Merchandiser",
+    "description": "Must be able to arrange heavy products and work in a fast-paced retail environment.",
+    "skillset": ["Organization skills", "Product knowledge", "Customer service"],
+    "salary-range": "PHP 19,000 - PHP 23,000 per month"
+  },
+  {
+    "job": "Food Stall Assistant",
+    "description": "Must have basic food handling skills and be willing to work long hours outdoors.",
+    "skillset": ["Food preparation", "Customer service", "Money handling"],
+    "salary-range": "PHP 13,000 - PHP 20,000 per month"
+  },
+  {
+    "job": "Laundry Attendant",
+    "description": "Must know how to operate washing and drying machines and handle delicate fabrics.",
+    "skillset": ["Laundry machine operation", "Attention to detail", "Time management"],
+    "salary-range": "PHP 15,000 - PHP 19,000 per month"
+  },
+  {
+    "job": "Parking Attendant",
+    "description": "Must be able to guide vehicles and maintain accurate parking records.",
+    "skillset": ["Customer service", "Observation skills", "Basic record-keeping"],
+    "salary-range": "PHP 15,000 - PHP 19,000 per month"
+  },
+  {
+    "job": "Car Wash Attendant",
+    "description": "Must have experience in washing and detailing vehicles efficiently.",
+    "skillset": ["Attention to detail", "Physical stamina", "Customer service"],
+    "salary-range": "PHP 15,000 - PHP 19,000 per month"
+  },
+  {
+    "job": "Bagger",
+    "description": "Must be quick and careful when packing grocery items.",
+    "skillset": ["Customer service", "Organization skills", "Speed"],
+    "salary-range": "PHP 14,000 - PHP 17,000 per month"
+  },
+  {
+    "job": "Gardener",
+    "description": "Must have knowledge in plant care and be able to operate garden tools.",
+    "skillset": ["Plant care", "Tool handling", "Physical stamina"],
+    "salary-range": "PHP 15,000 - PHP 19,000 per month"
+  },
+  {
+    "job": "Tricycle Driver",
+    "description": "Must have a valid driver’s license and be familiar with local routes.",
+    "skillset": ["Driving skills", "Navigation skills", "Customer service"],
+    "salary-range": "PHP 18,000 - PHP 25,000 per month"
+  },
+  {
+    "job": "Street Sweeper",
+    "description": "Must be willing to work outdoors early in the morning and handle cleaning tools.",
+    "skillset": ["Physical stamina", "Attention to detail", "Time management"],
+    "salary-range": "PHP 13,000 - PHP 17,000 per month"
+  },
+  {
+    "job": "Packer",
+    "description": "Must be able to pack products neatly and work quickly under pressure.",
+    "skillset": ["Organization skills", "Attention to detail", "Speed"],
+    "salary-range": "PHP 16,000 - PHP 20,000 per month"
+  },
+  {
+    "job": "Helper (Household/Shop)",
+    "description": "Must be flexible in doing household chores or assisting with store tasks.",
+    "skillset": ["Adaptability", "Basic cleaning", "Customer service"],
+    "salary-range": "PHP 13,000 - PHP 17,000 per month"
+  },
+  {
+    "job": "Barista",
+    "description": "Must have basic coffee preparation skills and good customer service attitude.",
+    "skillset": ["Beverage preparation", "Customer service", "Multi-tasking"],
+    "salary-range": "PHP 18,000 - PHP 22,000 per month"
+  },
+  {
+    "job": "Dishwasher",
+    "description": "Must be able to work quickly in cleaning kitchenware during busy hours.",
+    "skillset": ["Speed", "Attention to detail", "Physical stamina"],
+    "salary-range": "PHP 15,000 - PHP 19,000 per month"
+  },
+  {
+    "job": "Toll Booth Attendant",
+    "description": "Must be able to handle money accurately and work in shifts.",
+    "skillset": ["Basic math", "Customer service", "Accuracy"],
+    "salary-range": "PHP 20,000 - PHP 24,000 per month"
+  },
+  {
+    "job": "Bakery Assistant",
+    "description": "Must assist in bread preparation and maintain cleanliness in the baking area.",
+    "skillset": ["Food preparation", "Cleaning", "Teamwork"],
+    "salary-range": "PHP 18,000 - PHP 22,000 per month"
+  },
+  {
+    "job": "Porter",
+    "description": "Must be physically fit to carry heavy loads and assist customers with luggage.",
+    "skillset": ["Physical strength", "Customer service", "Time management"],
+    "salary-range": "PHP 23,000 - PHP 27,000 per month"
+  },
+  {
+    "job": "Street Food Cook",
+    "description": "Must know how to prepare and cook street food safely and efficiently.",
+    "skillset": ["Cooking skills", "Food safety", "Customer service"],
+    "salary-range": "PHP 18,000 - PHP 22,000 per month"
+  },
+  {
+    "job": "Pet Grooming Assistant",
+    "description": "Must be comfortable handling animals and assisting in pet grooming.",
+    "skillset": ["Animal care", "Attention to detail", "Patience"],
+    "salary-range": "PHP 17,000 - PHP 20,000 per month"
+  },
+  {
+    "job": "Call Center Trainee",
+    "description": "Must have basic English communication skills and willingness to learn customer support procedures.",
+    "skillset": ["Communication skills", "Basic computer skills", "Problem-solving"],
+    "salary-range": "PHP 20,000 - PHP 24,000 per month"
+  },
+  {
+    "job": "Market Stall Helper",
+    "description": "Must assist in arranging products, handling sales, and keeping the stall clean.",
+    "skillset": ["Sales skills", "Customer service", "Organization skills"],
+    "salary-range": "PHP 14,000 - PHP 18,000 per month"
+  }
+]
